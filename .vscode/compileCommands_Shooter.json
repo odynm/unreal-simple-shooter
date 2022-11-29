@@ -1,0 +1,117 @@
+[
+    {
+        "file": "C:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\Shooter.Build.cs",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\Shooter.cpp",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\Shooter.h",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterGameModeBase.cpp",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "C:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterGameModeBase.h",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterCharacter.h",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterCharacter.cpp",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\Gun.h",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\Gun.cpp",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterAIController.h",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterAIController.cpp",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\BTTask_ClearBlackboardValue.h",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\BTTask_ClearBlackboardValue.cpp",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\BTTask_Shoot.h",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\BTTask_Shoot.cpp",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\BTService_PlayerLocationIfSeen.h",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\BTService_PlayerLocationIfSeen.cpp",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\BTService_PlayerLocation.h",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\BTService_PlayerLocation.cpp",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterPlayerController.h",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\ShooterPlayerController.cpp",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\KillEmAllGameMode.h",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    },
+    {
+        "file": "c:\\\\Users\\\\mathi\\\\Documents\\\\Unreal Projects\\\\Shooter\\\\Source\\\\Shooter\\\\KillEmAllGameMode.cpp",
+        "command": "cl.exe @\"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\.vscode\\compileCommands_Shooter\\Shooter.210.rsp\"",
+        "directory": "C:\\Program Files\\Epic Games\\UE_4.27\\Engine\\Source"
+    }
+]

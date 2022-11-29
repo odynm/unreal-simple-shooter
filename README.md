@@ -1,0 +1,1 @@
+Without the game assets.

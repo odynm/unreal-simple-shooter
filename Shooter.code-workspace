@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "Shooter",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "C:\\Program Files\\Epic Games\\UE_4.27"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off",
+		"files.associations": {
+			"*.rh": "cpp"
+		},
+		"C_Cpp.default.forcedInclude": [
+			"${default}",
+			"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\Shooter\\Definitions.Shooter.h",
+			"C:\\Users\\mathi\\Documents\\Unreal Projects\\Shooter\\Intermediate\\Build\\Win64\\ShooterEditor\\Development\\Engine\\SharedPCH.Engine.ShadowErrors.h"
+		]
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
